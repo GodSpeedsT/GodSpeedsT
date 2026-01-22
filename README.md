@@ -1,16 +1,81 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Кирилл Мастеров
 
-<!--
-**GodSpeedsT/GodSpeedsT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
+Я студент 3 курса Международного университета МИТСО по специальности "Информационные системы и технологии". Начинающий backend-разработчик с фокусом на Java, микросервисной архитектуре и облачных технологиях. Активно изучаю современные технологии и участвую в проектах для накопления практического опыта.
 
-Here are some ideas to get you started:
+## 🛠️ Технологический стек
+**Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Базы данных:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Инструменты и DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Frontend:**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 📂 Ключевые проекты
+
+### 🏦 Система управления банковскими вкладами (микросервисы)
+Учебный проект с микросервисной архитектурой для управления банковскими операциями.
+
+**Стек:** Java, Spring Boot, Spring Cloud, PostgreSQL, Redis, Docker, RabbitMQ  
+**Особенности:**
+- 3 независимых микросервиса (пользователи, вклады, транзакции)
+- Межсервисное взаимодействие через REST API и RabbitMQ
+- Кэширование данных с Redis
+- API Gateway для маршрутизации запросов
+- Контейнеризация с Docker Compose
+
+### 🤖 Telegram-тренажёр для трейдинга
+**Победитель хакатона от DigitalFi**
+
+Мини-приложение для обучения торговле на бирже с имитацией сделок.
+
+**Стек:** Spring Boot, PostgreSQL, Docker, Telegram Bot API  
+**Реализация:** Бэкенд с кэшированием, хранением истории операций, деплой на Render
+
+### 📚 Аналог платформы Quizlet
+Веб-приложение для создания и изучения карточек.
+
+**Стек:** Vue.js, TypeScript, Pinia, Spring Boot (бэкенд)  
+**Функционал:** Создание наборов карточек, режим изучения, прогресс пользователя
+
+## 📚 Обучение и курсы
+- **Яндекс Практикум** | Основы Golang (2024)
+- **SQL Academy** | Интерактивный тренажёр SQL (2023)
+- **Международный университет МИТСО** | Информационные системы и технологии (3 курс)
+
+## 📊 Статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodSpeedsT&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GodSpeedsT&layout=compact&theme=default)
+
+## 🌱 Что изучаю сейчас
+- Углубляю знания в микросервисной архитектуре
+- Изучаю Kubernetes для оркестрации контейнеров
+- Практикуюсь в проектировании REST API
+- Изучаю лучшие практики разработки на Java
+
+## 🤝 Как со мной связаться
+- **Email:** masterov_k@bk.ru
+- **Телефон:** +375 (33) 606-36-07
+- **Telegram:** [@your_username] <!-- замените на ваш -->
+- **LinkedIn:** [Ваш профиль] <!-- добавьте ссылку -->
+
+## 🎯 Цели
+- Найти стажировку/junior позицию в backend-разработке
+- Участвовать в интересных open-source проектах
+- Развиваться в направлении cloud-native разработки
+
+---
+
+⭐ *"Код — это поэзия, которую понимают компьютеры и ценят разработчики"*
